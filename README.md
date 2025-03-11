@@ -1,9 +1,9 @@
 # Autonomous Bicycle
 
-============================================
+
 UFMG BIA-Kit is placed under the MIT License
 Copyright (c) 2024 by GTI (UFMG)
-============================================
+
 Hardware:
 * ESP-WROOM-32 30 pin development board
 * 2 Nidec 24-H
