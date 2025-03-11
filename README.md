@@ -1,6 +1,5 @@
 # Autonomous Bicycle
 
-
 UFMG BIA-Kit is placed under the MIT License
 Copyright (c) 2024 by GTI (UFMG)
 
