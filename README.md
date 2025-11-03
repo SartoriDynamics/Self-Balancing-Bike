@@ -17,4 +17,4 @@ Hardware:
 <img src="/Images/esquematico.png" alt="esquematico"/>
 
 
-[teste](https://www.youtube.com/watch?v=yNBqWHBKBLk)
+[Demonstration video](https://www.youtube.com/watch?v=yNBqWHBKBLk)
