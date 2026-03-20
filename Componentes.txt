@@ -1,0 +1,33 @@
+Lista de Componentes
+
+- Microcontrolador ESP32
+- IMU MPU6050
+- Motor DC de indução NIDEC 24H
+- Servomotor MG90S
+- Baterias de íons de lítio modelo 18650
+- Caixa para baterias
+- Regulador de tensão LM317
+- Roda de tração Lego 88517/88516
+- Correia 2GT-280 (largura 6 mm)
+- Estrutura física (impressão 3D)
+
+Parafusos e porcas:
+- 6 parafusos M3 4 mm (três incluídos com cada motor NIDEC)
+- 1 parafuso M1 5 mm
+- 1 parafuso M1 8 mm
+- 10 parafusos M2 8 mm
+- 2 parafusos M3 10 mm
+- 12 parafusos M3 30 mm
+- 32 parafusos M4 10 mm
+- 1 porca M1
+- 10 porcas M2
+- 2 porcas M3
+- 64 porcas M4
+
+Fios para conexão eletrônica:
+- Cabo 8P fêmea-macho de 10 cm (incluído com o motor NIDEC)
+- Cabo 8P fêmea-macho de 10 cm (incluído com o motor NIDEC)
+- 2 fios para solda de 10 cm
+- 4 fios para solda de 15 cm
+- 2 fios para solda de 20 cm
+- 3 fios para solda de 30 cm
