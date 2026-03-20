@@ -1,0 +1,22 @@
+Configuração do Ambiente de Programação
+
+Para programar o ESP32 e controlar o BIA, utilizou-se a Arduino IDE, cujo instalador está disponível no site oficial da plataforma.
+
+Após a instalação, é necessário configurar o suporte aos microcontroladores da família ESP32. Para isso:
+
+1. Abra a IDE e acesse File -> Preferences.
+2. No campo "Additional Boards Manager URLs", insira os seguintes endereços:
+
+https://dl.espressif.com/dl/package_esp32_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+3. Acesse Tools -> Board -> Boards Manager e pesquise por ESP32.
+4. Instale o pacote "esp32 by Espressif Systems", na versão 2.0.17.
+
+A utilização da versão 2.0.17 é essencial, pois versões mais recentes podem causar conflitos com outras bibliotecas empregadas neste projeto.
+
+Além da configuração da placa, é necessário instalar a biblioteca ESP32Encoder, responsável pela leitura dos encoders dos motores. Para instalá-la:
+
+1. Acesse Tools -> Manage Libraries.
+2. Pesquise por ESP32Encoder.
+3. Instale a versão mais recente disponível.
